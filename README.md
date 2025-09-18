@@ -14,7 +14,7 @@ System Design:
 
 
 Tech Stack:
-Python
-Streamlit
-OpenAI API 
-Daytona
+- Python
+- Streamlit
+- OpenAI API
+- Daytona
